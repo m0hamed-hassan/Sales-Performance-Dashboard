@@ -24,7 +24,7 @@ This project demonstrates a complete data pipeline and visualization for sales a
    - Interactive dashboard visualizing sales KPIs.  
 
 ## 📊 Dashboard Preview
-![Dashboard Screenshot](dashboard.j)
+![Dashboard](screenshot.png)
 
 ## 🛠️ Tools Used
 - Python (Jupyter, Pandas)  
