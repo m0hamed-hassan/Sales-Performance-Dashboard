@@ -29,3 +29,10 @@ This project demonstrates a complete data pipeline:
 2. Import `queries.sql` into SQL Server Management Studio (SSMS).  
 3. Connect Power BI to SQL Server or CSV exports.  
 4. Explore and interact with the dashboard.
+
+---
+
+## 👨‍💻 Author
+- **Mohamed Hassan**  
+- 📧 [mohamedhassanmasoud95@gmail.com]  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mohamed---hassan)
